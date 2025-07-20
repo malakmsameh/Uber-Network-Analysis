@@ -1,6 +1,6 @@
 # 🚗 Uber Network Analysis
 
-This project applies social network analysis techniques to Uber trip data to uncover patterns in trip connectivity and request dynamics. It was developed for a **Social Analysis** course using Python, leveraging libraries like **Pandas**, **NetworkX**, **Matplotlib**, and **NumPy**.
+This project explores Uber trip data using social network analysis with Python. Leveraging NetworkX, Pandas, and Matplotlib, it visualizes connectivity patterns, central nodes, and trip dynamics. Developed for a university course in Social Network Analysis.
 
 ---
 
